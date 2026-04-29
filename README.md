@@ -6,7 +6,7 @@ This repository contains the engineering pipeline and midterm project for detect
 * `/src/`: Contains the modularized Python scripts for the engineering pipeline.
 * `/notebooks/`: Contains the heavily documented Jupyter Notebook (`Midterm_Capstone.ipynb`) featuring Exploratory Data Analysis, model error analysis, and visualization generation.
 * `/presentation/`: Contains the midterm presentation slide deck.
-* `/data/`: Directory for the raw UCI dataset (ignored via `.gitignore` to prevent large file uploads).
+* `/data/`: Directory for the raw UCI dataset.
 
 ## Dataset Requirement
 This project requires the **UCI Machine Learning Repository Drug Review Dataset**. 
